@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "Z:\\ai project\\.venv\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "./venv/Lib/site-packages"
+    ]
+}

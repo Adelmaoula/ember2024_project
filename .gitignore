@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and large model files
+ember2024_data/
+benchmark_models/*.model
+
+# Output files, logs, etc.
+*.log
+*.dat
+*.csv
